@@ -1,4 +1,4 @@
-## PixelRegionThin
+### PixelRegionThin
 Detecting thin lines by comparison with a smoothed version of the image.
 Line regions are thinned to be one pixel wide.
 
