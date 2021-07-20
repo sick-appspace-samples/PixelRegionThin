@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <manifest>
-    <application name="Thin">
-        <crown name="Thin">
+    <application name="PixelRegionThin">
+        <crown name="PixelRegionThin">
             <desc>user script</desc>
         </crown>
-        <meta key="author">Kristoffer Ofjall</meta>
+        <meta key="author">AppSpace Sample</meta>
         <meta key="version">1.0</meta>
         <meta key="priority">low</meta>
         <meta key="copy-protected">false</meta>
